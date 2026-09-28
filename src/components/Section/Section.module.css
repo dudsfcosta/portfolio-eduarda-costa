@@ -1,0 +1,29 @@
+.secao { padding: 4.5rem 0; }
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.titulo {
+  font-size: 1.7rem;
+  font-weight: 800;
+  margin-bottom: 0.35rem;
+}
+
+.titulo::after {
+  content: '';
+  display: block;
+  width: 52px;
+  height: 4px;
+  margin-top: 0.5rem;
+  border-radius: 2px;
+  background: var(--grad);
+}
+
+.subtitulo {
+  color: var(--muted);
+  margin-bottom: 2rem;
+  max-width: 640px;
+}

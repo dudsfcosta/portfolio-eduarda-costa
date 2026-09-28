@@ -1,0 +1,16 @@
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 2rem 1.25rem 2.5rem;
+  text-align: center;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.links {
+  display: flex;
+  gap: 1.25rem;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.nota { color: var(--muted); font-size: 0.85rem; }
