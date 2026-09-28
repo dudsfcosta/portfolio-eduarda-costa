@@ -29,7 +29,6 @@ Para gerar a versão de produção: `npm run build` (saída em `dist/`).
 - **React 18** — componentização, props e hooks (inclui hook customizado `useActiveSection` com IntersectionObserver para a navegação)
 - **CSS Modules** — estilização modular e escopada por componente
 - **Vite** — dev server e build de produção
-- Deploy em produção na **Vercel**
 
 ## 📁 Estrutura
 
