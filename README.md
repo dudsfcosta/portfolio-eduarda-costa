@@ -22,7 +22,6 @@ Para gerar a versão de produção: `npm run build` (saída em `dist/`).
 | Catálogo de Produtos | React, hooks, componentização | [catalogo-produtos-react](https://github.com/dudsfcosta/catalogo-produtos-react) |
 | Diário de Bordo (PWA) | PWA, Service Worker, Lighthouse 100×4 | [diario-de-bordo](https://github.com/dudsfcosta/diario-de-bordo) |
 | Petshop Amor Animal | HTML5, CSS3, responsividade | [petshop-amor-animal](https://github.com/dudsfcosta/petshop-amor-animal) |
-| Chat Application | PHP, JavaScript | [php-chat-application](https://github.com/dudsfcosta/php-chat-application) |
 
 ## 🛠️ Tecnologias deste portfólio
 
