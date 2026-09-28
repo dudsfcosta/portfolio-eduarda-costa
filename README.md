@@ -2,7 +2,7 @@
 
 Portfólio online desenvolvido em **React** como atividade final do curso de Front-End da [EBAC](https://ebaconline.com.br) — reunindo projetos, habilidades e formas de contato em uma vitrine profissional.
 
-🔗 **Acesse o portfólio publicado:** {{URL}}
+🔗 **Acesse o portfólio publicado:** https://dudsfcosta.github.io/portfolio-eduarda-costa/
 
 ## 🚀 Como rodar localmente
 
