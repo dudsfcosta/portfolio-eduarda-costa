@@ -18,7 +18,7 @@ export default function Hero() {
         </p>
         <p className={styles.resumo}>
           Estudo desenvolvimento web na EBAC e transformo ideias em interfaces organizadas,
-          responsivas e acessíveis. Venho do design e da escrita — e levo esse olhar criativo
+          responsivas e acessíveis. Venho do design e da arte — e levo esse olhar criativo
           para cada componente que construo.
         </p>
         <div className={styles.ctas}>

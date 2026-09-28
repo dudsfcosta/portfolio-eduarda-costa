@@ -13,16 +13,15 @@ export default function Sobre() {
         />
         <div className={styles.texto}>
           <p>
-            Sou desenvolvedora front-end em formação pela{' '}
-            <a href="https://ebaconline.com.br" target="_blank" rel="noreferrer">EBAC</a> e
-            freelancer na <strong>Khaosphaneia</strong>, onde assino como <em>Void</em>:
-            ilustração digital e escrita.
+            Sou desenvolvedora Full-Stack em formação pela{' '}
+            <a href="https://ebaconline.com.br" target="_blank" rel="noreferrer">EBAC</a>,
+            designer e ilustradora digital freelancer.
           </p>
           <p>
-            Venho da área criativa e carrego esse olhar para o código: gosto de interfaces
-            bem organizadas, acessíveis e com personalidade. Atualmente estudo React,
-            Next.js e arquitetura de micro-frontends — cada projeto do curso está
-            versionado no meu GitHub.
+            Venho da área criativa e carrego esse olhar para o código: procuro desenvolver
+            interfaces bem organizadas, acessíveis e com personalidade. Atualmente estudo
+            React, Next.js e arquitetura de micro-frontends — cada projeto do curso está
+            versionado no meu GitHub. Meu próximo passo é o estudo de Python.
           </p>
           <ul className={styles.fatos}>
             <li>📍 {LOCALIZACAO}</li>

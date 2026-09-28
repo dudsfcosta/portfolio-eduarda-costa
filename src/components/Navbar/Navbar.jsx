@@ -9,7 +9,7 @@ export default function Navbar({ secoes }) {
     <header className={styles.navbar}>
       <nav className={styles.nav} aria-label="Navegação principal">
         <a className={styles.logo} href="#inicio">
-          <span aria-hidden="true">🌌</span> Eduarda<span className={styles.ponto}>.</span>
+          <span aria-hidden="true"></span> Eduarda<span className={styles.ponto}>.</span>
         </a>
         <ul className={styles.links}>
           {secoes.map((secao) => (

@@ -1,6 +1,6 @@
 import Section from '../components/Section/Section';
 import ContactForm from '../components/ContactForm/ContactForm';
-import { LINKS, LOCALIZACAO } from '../data/contato';
+import { LINKS } from '../data/contato';
 import styles from './Contato.module.css';
 
 export default function Contato() {
@@ -8,7 +8,7 @@ export default function Contato() {
     <Section
       id="contato"
       titulo="Contato"
-      subtitulo={`Vamos conversar? Me chame pelo formulário ou encontre-me em ${LOCALIZACAO}.`}
+      subtitulo={`Vamos conversar? Me chame pelo formulário.`}
     >
       <div className={styles.grid}>
         <ContactForm />

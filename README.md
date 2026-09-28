@@ -50,5 +50,6 @@ src/
 - Conteúdo centralizado em `src/data/` — atualizar projetos/habilidades não toca nos componentes
 
 ---
+## 👩‍💻 Autora
 
-📚 Atividade do curso de Front-End da EBAC — veja todos os projetos no [meu GitHub](https://github.com/dudsfcosta).
+Desenvolvido por **Eduarda Ferreira Costa** &copy; 2026.

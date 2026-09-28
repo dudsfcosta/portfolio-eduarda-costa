@@ -52,14 +52,4 @@ export const projetos = [
     tecnologias: ['HTML5', 'CSS3', 'Responsividade'],
     repo: 'https://github.com/dudsfcosta/petshop-amor-animal',
   },
-  {
-    id: 'php-chat',
-    nome: 'Chat Application',
-    emoji: '💬',
-    capa: 'linear-gradient(135deg, #4f46e5 0%, #9333ea 100%)',
-    descricao:
-      'Aplicação de chat em tempo real com PHP no backend, exercitando comunicação cliente-servidor e a integração entre front-end e back-end.',
-    tecnologias: ['PHP', 'JavaScript', 'HTTP'],
-    repo: 'https://github.com/dudsfcosta/php-chat-application',
-  },
 ];
